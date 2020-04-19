@@ -12,8 +12,8 @@ An analysis for the New York Citi Bike Program, which responsible for overseeing
 - Software: Tablaeu .
  ## Link to the complete Dashboard and story point :
 Complete link to the dashboard and story point is given below.
-[BikeShare Dashborad](https://public.tableau.com/profile/varsha.jha#!/vizhome/BikeShare_Challenge/NYCBikeShareData "BikeShare Dashborad")
-[Des Moines Story](https://public.tableau.com/profile/varsha.jha#!/vizhome/BikeShare_Challenge/DesMoines "Des Moines Story")
+a. [BikeShare Dashborad](https://public.tableau.com/profile/varsha.jha#!/vizhome/BikeShare_Challenge/NYCBikeShareData "BikeShare Dashborad")
+b. [Des Moines Story](https://public.tableau.com/profile/varsha.jha#!/vizhome/BikeShare_Challenge/DesMoines "Des Moines Story")
 
 ## Findings:
 **The gender diversity in the Des Moines is almost 50.2 %.**
